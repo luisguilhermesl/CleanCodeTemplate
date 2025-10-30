@@ -6,15 +6,15 @@
 <br>src/
 <br>|_ docs
 <br>|_ models/
-|   |_ database/
-|   |_ migrations
-|_ public/>
-|   |_assets
-|_ tests
-|.env.exemple
-|.gitignore
-|LICENSE
-|README.MD
+<br>|   |_ database/
+<br>|   |_ migrations
+<br>|_ public/>
+<br>|   |_assets
+<br>|_ tests
+<br>|.env.exemple
+<br>|.gitignore
+<br>|LICENSE
+<br>|README.MD
 
 
 
