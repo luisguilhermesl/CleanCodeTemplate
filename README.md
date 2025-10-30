@@ -6,10 +6,10 @@
 <br>src/
 <br> |_ docs
 <br> |_ models/
-<br> |       |_ database/
-<br> |       |_ migrations
+<br> |<p>      <p> |_ database/
+<br> |<p>      <p>     |_ migrations
 <br> |_ public/>
-<br> |       |_assets
+<br> |<p>      <p>       |_assets
 <br> |_ tests
 <br> |.env.exemple
 <br> |.gitignore
