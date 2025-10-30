@@ -1,1 +1,24 @@
 # CleanCodeTemplate
+
+<h1>Luís Guilherme S Lopes</h1>
+<h4>Este é um workshop</h4>
+
+src/
+|_ docs
+|_ models/
+|   |_ database/
+|   |_ migrations
+|_ public/>
+|   |_assets
+|_ tests
+|.env.exemple
+|.gitignore
+|LICENSE
+|README.MD
+
+
+
+
+
+
+<h5>Este é o nosso TPMV no VS Code. É simples, mas é a fundação para a qualidade. Agora, em grupos interdisciplinares, vocês vão pegar este esqueleto e torná-lo 'a prova de bala' para as suas áreas!</h5>
