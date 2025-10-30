@@ -4,17 +4,17 @@
 <h4>Este é um workshop</h4>
 
 <br>src/
-<br>|_ docs
-<br>|_ models/
-<br>|   |_ database/
-<br>|   |_ migrations
-<br>|_ public/>
-<br>|   |_assets
-<br>|_ tests
-<br>|.env.exemple
-<br>|.gitignore
-<br>|LICENSE
-<br>|README.MD
+<br> |_ docs
+<br> |_ models/
+<br> |       |_ database/
+<br> |       |_ migrations
+<br> |_ public/>
+<br> |       |_assets
+<br> |_ tests
+<br> |.env.exemple
+<br> |.gitignore
+<br> |LICENSE
+<br> |README.MD
 
 
 
