@@ -1,0 +1,7 @@
+<style>
+  .paragrafo-espacado {
+    margin-bottom: 20px; /* Ou padding-bottom */
+  }
+</style>
+<p class="paragrafo-espacado">Este é o primeiro parágrafo.</p>
+<p>Este é o segundo parágrafo.</p>

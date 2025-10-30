@@ -3,18 +3,18 @@
 <h1>Luís Guilherme S Lopes</h1>
 <h4>Este é um workshop</h4>
 
-<br>src/
-<br>|&emsp;&ensp;|_ docs
+<br>|src/
+<br>|_ docs
 <br>|_ models/
-<br>|&emsp;&ensp;|_ database/
-<br>|&emsp;&ensp;|_ migrations
+<br>|&emsp;&emsp;&emsp;&emsp;|_ database/
+<br>|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|_ migrations 
 <br>|_ public/>
-<br>|&emsp;&ensp;|_assets
-<br> |_ tests
-<br> |.env.exemple
-<br> |.gitignore
-<br> |LICENSE
-<br> |README.MD
+<br>|&emsp;&emsp;&emsp;&emsp;|_ assets
+<br>|_ tests
+<br>|.env.exemple
+<br>|.gitignore
+<br>|LICENSE
+<br>|README.MD
 
 
 
